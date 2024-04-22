@@ -1,6 +1,6 @@
 # Provision Azure resources (Azure Cosmos DB workspace, Azure OpenAI, etc.)
 
-As the guide walks you through the concepts of integrating vCore-based Azure Cosmos DB for MongoDB and Azure OpenAI, the hands-on labs will also guide you through building a sample solution. The focus of this guide and the labs is limited to vCore-based Azure Cosmos DB for MongoDB, Vector Search, Azure OpenAI, and the Python programming language. With this focus, the labs include an Azure Bicep template that will deploy the following Azure resources the solution will be deployed to:
+As the guide walks you through the concepts of integrating vCore-based Azure Cosmos DB for MongoDB and Azure OpenAI, the hands-on labs will also guide you through building a sample solution. The focus of this guide and the labs is limited to vCore-based Azure Cosmos DB for MongoDB, Vector Search, Azure OpenAI, and the Node.js runtime and the JavaScript programming language. With this focus, the labs include an Azure Bicep template that will deploy the following Azure resources the solution will be deployed to:
 
 - Azure Resource Group
 - vCore-based Azure Cosmos DB for MongoDB
